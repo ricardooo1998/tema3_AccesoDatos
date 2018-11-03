@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Tema3</string>
+    <string name="fecha_de_nacimiento">Fecha de Nacimiento:</string>
+    <string name="sexo">Sexo</string>
+    <string name="nombre_de_usuario">Nombre de Usuario:</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="guardar_preferencias">Guardar Preferencias</string>
+    <string name="mostrar_preferencias">Mostrar Preferencias</string>
+    <string name="nombre">Nombre:</string>
+    <string name="registrar_alumno">Registrar Alumno</string>
+    <string name="registrar_profesor">Registrar Profesor</string>
+    <string name="edad">Edad:</string>
+    <string name="ciclo">Ciclo:</string>
+    <string name="curso">Curso:</string>
+    <string name="nota_media">Nota Media:</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="curso_donde_es_tutor">Curso donde es Tutor:</string>
+    <string name="despacho_del_profesor">Despacho del Profesor:</string>
+    <string name="consultar_alumno">Consultar Alumno</string>
+    <string name="todos_los_estudiantes">Todos los estudiantes</string>
+    <string name="buscar">Buscar</string>
+    <string name="buscar_por_ciclo">Buscar por Ciclo:</string>
+    <string name="buscar_ciclo">buscar_ciclo</string>
+    <string name="buscar_por_curso">Buscar Por Curso:</string>
+    <string name="buscar_curso">Buscar Curso</string>
+    <string name="textview">TextView</string>
+    <string name="consultar_alumnos">Consultar Alumnos</string>
+</resources>
